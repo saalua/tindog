@@ -50,7 +50,7 @@ h3 {
 
 .nav-link {
 	font-size: 1.2rem;
-	font-weight: lighter;
+	/* font-weight: lighter; */
 }
 
 
@@ -157,7 +157,7 @@ h3 {
 }
 
 #footer p {
-	color: #ddd;
+	/* color: #ddd; */
 	padding-top: 2%;
 	font-family: 'Ubuntu', sans-serif;
 }
